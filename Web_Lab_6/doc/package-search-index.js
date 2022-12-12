@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"model.bouquet"},{"l":"model.flowers"},{"l":"model.flowers.common"},{"l":"model.flowers.rare"},{"l":"runner"},{"l":"util.builder"},{"l":"util.comparator"},{"l":"util.manager"}];updateSearchResults();
